@@ -4,7 +4,7 @@ Hi, I'm Priya! 👋
 Welcome to my clean and consistent restart of the **100 Days of Python** challenge. My goal is to learn one new concept every day and apply it through practical scripts.
 
 ## 📅 Start Date
-📆 June 27, 2025
+📆 June 24, 2025
 
 ## ✅ Daily Progress
 
