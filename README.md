@@ -13,6 +13,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 1: Welcome Message → [`day01_welcome_message.py`](day01_welcome_message.py)
 - ✅ Day 2: Basic Math Operations (using user input) → [`day02_basic_math_operations.py`](day02_basic_math_operations.py)
 - ✅ Day 3: Number Type & Odd/Even Checker → [`num_type_checker_day3.py`](num_type_checker_day3.py)
+- ✅ Day 4: Vowel & Consonant Counter using `for` loop → [`day04_vowel_consonant_counter.py`](day04_vowel_consonant_counter.py)
+
 
 
 
