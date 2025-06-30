@@ -13,6 +13,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 4: Vowel & Consonant Counter using `for` loop → [`day04_vowel_consonant_counter.py`](day04_vowel_consonant_counter.py)
 - ✅ Day 5: Multiplication Table using `while` loop → [`day05_multiplication_table.py`](day05_multiplication_table.py)
 - ✅ Day 6: Reverse a String using slicing → [`day06_reverse_string.py`](day06_reverse_string.py)
+- ✅ Day 7: Find the Largest of Three Numbers using `if-elif-else` → [`day07_largest_of_three.py`](day07_largest_of_three.py)
+
 
 
 
