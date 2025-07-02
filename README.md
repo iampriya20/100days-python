@@ -15,6 +15,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 6: Reverse a String using slicing → [`day06_reverse_string.py`](day06_reverse_string.py)
 - ✅ Day 7: Find the Largest of Three Numbers using `if-elif-else` → [`day07_largest_of_three.py`](day07_largest_of_three.py)
 - ✅ Day 8: Simple Calculator using `match-case` statement → [`day08_match_case_calculator.py`](day08_match_case_calculator.py)
+- ✅ Day 9: Leap Year Checker using nested `if` conditions → [`day09_leap_year_checker.py`](day09_leap_year_checker.py)
+
 
 
 
