@@ -1,4 +1,4 @@
-# Day 13: Prime Numbers in a Given Range
+# Day 12: Prime Numbers in a Given Range
 
 start = int(input("Enter the start of range: "))
 end = int(input("Enter the end of range: "))
