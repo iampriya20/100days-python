@@ -18,6 +18,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 9: Leap Year Checker using nested `if` conditions → [`day09_leap_year_checker.py`](day09_leap_year_checker.py)
 - ✅ Day 10: Factorial Calculator using `for` loop → [`day10_factorial_calculator.py`](day10_factorial_calculator.py)
 - ✅ Day 11: Prime Number Checker using `for` loop → [`day11_prime_number_checker.py`](day11_prime_number_checker.py)
+- ✅ Day 12: Prime Numbers in a Given Range → [`day12_primes_in_range.py`](day12_primes_in_range.py)
 
 
 
