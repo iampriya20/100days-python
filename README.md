@@ -20,6 +20,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 11: Prime Number Checker using `for` loop → [`day11_prime_number_checker.py`](day11_prime_number_checker.py)
 - ✅ Day 12: Prime Numbers in a Given Range → [`day12_primes_in_range.py`](day12_primes_in_range.py)
 - ✅ Day 13: Fibonacci Sequence Generator using `for` loop → [`day13_fibonacci_generator.py`](day13_fibonacci_generator.py)
+- ✅ Day 14: Palindrome Checker using `for` loop → [`day14_palindrome_checker.py`](day14_palindrome_checker.py)
 
 
 
