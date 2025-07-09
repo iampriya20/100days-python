@@ -22,6 +22,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 13: Fibonacci Sequence Generator using `for` loop → [`day13_fibonacci_generator.py`](day13_fibonacci_generator.py)
 - ✅ Day 14: Palindrome Checker using `for` loop → [`day14_palindrome_checker.py`](day14_palindrome_checker.py)
 - ✅ Day 15: Character Frequency Counter using `string.count()` → [`day15_char_frequency_counter.py`](day15_char_frequency_counter.py)
+- ✅ Day 16: Sum of Digits of a Number → [`day16_sum_of_digits.py`](day16_sum_of_digits.py)
 
 
 
