@@ -24,6 +24,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 15: Character Frequency Counter using `string.count()` → [`day15_char_frequency_counter.py`](day15_char_frequency_counter.py)
 - ✅ Day 16: Sum of Digits of a Number → [`day16_sum_of_digits.py`](day16_sum_of_digits.py)
 - ✅ Day 17: Armstrong Number Checker using `while` loop → [`day17_armstrong_number.py`](day17_armstrong_number.py)
+- ✅ Day 18: Word Counter using `split()` and `len()` → [`day18_word_counter.py`](day18_word_counter.py)
+
 
 
 
