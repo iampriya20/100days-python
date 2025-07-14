@@ -27,6 +27,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 18: Word Counter using `split()` and `len()` → [`day18_word_counter.py`](day18_word_counter.py)
 - ✅ Day 19: Swap Two Variables Without Temp → [`day19_swap_variables.py`](day19_swap_variables.py)
 - ✅ Day 20: Count Digits, Letters, and Special Characters → day20_count_chars_digits_specials.py
+- ✅ Day 21: Password Strength Checker → day21_password_strength_checker.py
+
 
 
 
