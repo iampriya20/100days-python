@@ -29,6 +29,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 20: Count Digits, Letters, and Special Characters → day20_count_chars_digits_specials.py
 - ✅ Day 21: Password Strength Checker → day21_password_strength_checker.py
 - ✅ Day 22: Remove Punctuation from a String → day22_remove_punctuation.py
+- ✅ Day 23: GCD and LCM Calculator → day23_gcd_lcm_calculator.py
 
 
 
