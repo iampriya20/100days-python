@@ -33,6 +33,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 24: Paragraph Analyzer → day24_paragraph_analyzer.py
 - ✅ Day 25: Age Calculator → day25_age_calculator.py
 - ✅ Day 26: Square and Cube Calculator → day26_square_cube_calculator.py
+- ✅ Day 27: Temperature Converter → day27_temperature_converter.py
 
 
 
