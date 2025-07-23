@@ -36,6 +36,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 27: Temperature Converter → day27_temperature_converter.py
 - ✅ Day 28: List Statistics → day28_list_statistics.py
 - ✅ Day 29: Mean, Median, and Mode Calculator → day29_mean_median_mode.py
+- ✅ Day 30: Word Frequency Counter → day30_word_frequency_counter.py
+
 
 
 
