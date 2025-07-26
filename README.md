@@ -38,6 +38,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 29: Mean, Median, and Mode Calculator → day29_mean_median_mode.py
 - ✅ Day 30: Word Frequency Counter → day30_word_frequency_counter.py
 - ✅ Day 31: File Reader Summary → day31_file_reader_summary.py
+- ✅ Day 32: USD to INR Currency Converter → day32_currency_converter.py
 
 
 
