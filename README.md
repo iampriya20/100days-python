@@ -40,6 +40,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 31: File Reader Summary → day31_file_reader_summary.py
 - ✅ Day 32: USD to INR Currency Converter → day32_currency_converter.py
 - ✅ Day 33: BMI Calculator → day33_bmi_calculator.py
+- ✅ Day 34: Even and Odd Number Separator → day34_even_odd_separator.py
 
 
 
