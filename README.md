@@ -45,6 +45,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 36: Stopwatch Timer → day36_stopwatch_timer.py
 - ✅ Day 37: Contact Book → day37_contact_book.py
 - ✅ Day 38: Typing Speed Test → day38_typing_speed_test.py
+- ✅ Day 39: Calendar Display → day39_calendar_display.py
 
 
 
