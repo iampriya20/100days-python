@@ -47,6 +47,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 38: Typing Speed Test → day38_typing_speed_test.py
 - ✅ Day 39: Calendar Display → day39_calendar_display.py
 - ✅ Day 40: Day Finder → day40_day_finder.py
+- ✅ Day 41: File Size Checker → day41_file_size_checker.py
 
 
 
