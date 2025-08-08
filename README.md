@@ -51,6 +51,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 42: Countdown Timer → day42_countdown_timer.py
 - ✅ Day 43: Grade Calculator → day43_grade_calculator.py
 - ✅ Day 44: Dice Roller (User vs Computer) → day44_dice_roller.py
+- ✅ Day 45: Time Zone Converter → day45_time_zone_converter.py
 
 
 
