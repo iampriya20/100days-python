@@ -52,9 +52,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 43: Grade Calculator → day43_grade_calculator.py
 - ✅ Day 44: Dice Roller (User vs Computer) → day44_dice_roller.py
 - ✅ Day 45: Time Zone Converter → day45_time_zone_converter.py
-
-
-
+- ✅ Day 46: Common & Unique Words Finder → day46_common_unique_words_finder.py
 
 
 
