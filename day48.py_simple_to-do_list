@@ -1,0 +1,42 @@
+# day48_todo_list.py
+
+print("Simple To-Do List")
+
+todos = []
+
+while True:
+    print("\n1) Add  2) View  3) Remove  4) Quit")
+    choice = input("Choose (1-4): ").strip()
+
+    if choice == "1":
+        task = input("New task: ").strip()
+        if task:
+            todos.append(task)
+            print("Added.")
+        else:
+            print("Empty task ignored.")
+
+    elif choice == "2":
+        if not todos:
+            print("No tasks yet.")
+        else:
+            print("\nYour tasks:")
+            for i, t in enumerate(todos, 1):
+                print(f"{i}. {t}")
+
+    elif choice == "3":
+        if not todos:
+            print("Nothing to remove.")
+            continue
+        idx = input("Task number to remove: ").strip()
+        if idx.isdigit() and 1 <= int(idx) <= len(todos):
+            removed = todos.pop(int(idx) - 1)
+            print(f"Removed: {removed}")
+        else:
+            print("Invalid number.")
+
+    elif choice == "4":
+        print("Goodbye!")
+        break
+    else:
+        print("Invalid choice.")
