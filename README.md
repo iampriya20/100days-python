@@ -55,6 +55,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 46: Common & Unique Words Finder → day46_common_unique_words_finder.py
 - ✅ Day 47: Random Password Generator → day47_random_password_generator.py
 - ✅ Day 48: Simple to-do list → day48_simple_to-do_list.py
+- - ✅ Day 49: OTP Generator → day49_otp_generator.py
 
 
 
