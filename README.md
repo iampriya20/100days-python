@@ -58,6 +58,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 49: OTP Generator → day49_otp_generator.py
 - ✅ Day 50: Automatic Strong Password Generator → day50_strong_password_generator.py
 - ✅ Day 51: Number to Roman Numerals → day51_number_to_roman.py
+- ✅ Day 52: Email Slicer → day52_email_slicer.py
 
 
 
