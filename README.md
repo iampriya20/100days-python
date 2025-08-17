@@ -60,6 +60,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 51: Number to Roman Numerals → day51_number_to_roman.py
 - ✅ Day 52: Email Slicer → day52_email_slicer.py
 - ✅ Day 53: Password Masker → day53_password_masker.py
+- ✅ Day 54: Emoji Mood Detector → day54_emoji_mood_detector.py
 
 
 
