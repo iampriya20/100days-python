@@ -62,6 +62,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 53: Password Masker → day53_password_masker.py
 - ✅ Day 54: Emoji Mood Detector → day54_emoji_mood_detector.py
 - ✅ Day 55: Sentence Case Converter → day55_sentence_case_converter.py
+- ✅ Day 56: Union of Two Sets → day56_union_of_sets.py
 
 
 
