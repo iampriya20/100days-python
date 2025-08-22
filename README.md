@@ -65,6 +65,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 56: Union of Two Sets → day56_union_of_sets.py
 - ✅ Day 58: Set Intersection → Simple script to find common elements between two sets.
 - ✅ Day 59: Set Difference → Finds elements present in the first set but not in the second.
+- ✅ Day 60: Set Symmetric Difference → Finds elements present in either of the sets but not in both.
+
 
 
 
