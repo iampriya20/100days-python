@@ -68,6 +68,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 60: Set Symmetric Difference → Finds elements present in either of the sets but not in both.
 - ✅ Day 61: Largest Word in a Sentence → day61_largest_word.py
 - ✅ Day 62: Smallest Word in a Sentence → day62_smallest_word.py
+- ✅ Day 63: Second Largest Number in a List → day63_second_largest.py
+
 
 
 
