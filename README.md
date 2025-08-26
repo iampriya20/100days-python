@@ -69,6 +69,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 61: Largest Word in a Sentence → day61_largest_word.py
 - ✅ Day 62: Smallest Word in a Sentence → day62_smallest_word.py
 - ✅ Day 63: Second Largest Number in a List → day63_second_largest.py
+- ✅ Day 64: Second Smallest Number in a List → day64_second_smallest.py
+
 
 
 
