@@ -70,7 +70,9 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 62: Smallest Word in a Sentence → day62_smallest_word.py
 - ✅ Day 63: Second Largest Number in a List → day63_second_largest.py
 - ✅ Day 64: Second Smallest Number in a List → day64_second_smallest.py
-✅ Day 65: Remove Duplicates from a List → day65_remove_duplicates.py
+- ✅ Day 65: Remove Duplicates from a List → day65_remove_duplicates.py
+- ✅ Day 66: Find Pairs with Given Sum → day66_find_pairs_with_sum.py
+
 
 
 
