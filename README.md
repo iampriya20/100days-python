@@ -74,6 +74,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 66: Find Pairs with Given Sum → day66_find_pairs_with_sum.py
 - ✅ Day 67: Matrix Transpose → day67_matrix_transpose.py
 - ✅ Day 68: Pascal's Triangle → day68_pascals_triangle.py
+- ✅ Day 69: Sieve of Eratosthenes (Prime Generator) → day69_sieve_of_eratosthenes.py
+
 
 
 
