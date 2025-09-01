@@ -76,6 +76,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 68: Pascal's Triangle → day68_pascals_triangle.py
 - ✅ Day 69: Sieve of Eratosthenes (Prime Generator) → day69_sieve_of_eratosthenes.py
 - ✅ Day 70: Balanced Parentheses Checker → day70_balanced_parentheses.py
+- ✅ Day 71: Binary Search (iterative) → day71_binary_search.py
 
 
 
