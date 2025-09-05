@@ -79,6 +79,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 71: Binary Search (iterative) → day71_binary_search.py
 - ✅ Day 72: Bubble Sort → day72_bubble_sort.py
 - ✅ Day 73: Insertion Sort → day73_insertion_sort.py
+- ✅ Day 74: Selection Sort → day74_selection_sort.py
 
 
 
