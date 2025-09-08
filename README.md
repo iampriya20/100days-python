@@ -82,6 +82,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 74: Selection Sort → day74_selection_sort.py
 - ✅ Day 75: Caesar Cipher (Encrypt/Decrypt) → day75_caesar_cipher.py
 - ✅ Day 76: Perfect Number Checker → day76_perfect_number_checker.py
+- ✅ Day 77: Strong Number Checker → day77_strong_number_checker.py
 
 
 
