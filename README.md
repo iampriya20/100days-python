@@ -84,6 +84,8 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 76: Perfect Number Checker → day76_perfect_number_checker.py
 - ✅ Day 77: Strong Number Checker → day77_strong_number_checker.py
 - ✅ Day 78: Harshad (Niven) Number Checker → day78_harshad_number_checker.py
+- ✅ Day 79: Kaprekar Number Checker → day79_kaprekar_number_checker.py
+- ✅ Day 80: Happy Number Checker → day80_happy_number_checker.py
 
 
 
