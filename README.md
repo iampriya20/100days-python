@@ -87,6 +87,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 79: Kaprekar Number Checker → day79_kaprekar_number_checker.py
 - ✅ Day 80: Happy Number Checker → day80_happy_number_checker.py
 - ✅ Day 81: Matrix Multiplication → day81_matrix_multiplication.py
+- ✅ Day 82: Anagram Checker → day82_anagram_checker.py
 
 
 
