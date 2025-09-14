@@ -88,6 +88,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 80: Happy Number Checker → day80_happy_number_checker.py
 - ✅ Day 81: Matrix Multiplication → day81_matrix_multiplication.py
 - ✅ Day 82: Anagram Checker → day82_anagram_checker.py
+- ✅ Day 83: Mini ATM Simulation → day83_mini_atm_simulation.py
 
 
 
