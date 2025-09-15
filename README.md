@@ -90,6 +90,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 82: Anagram Checker → day82_anagram_checker.py
 - ✅ Day 83: Mini ATM Simulation → day83_mini_atm_simulation.py
 - ✅ Day 84: Pangram Checker → day84_pangram_checker.py
+- ✅ Day 85: Digital Root Calculator → day85_digital_root.py
 
 
 
