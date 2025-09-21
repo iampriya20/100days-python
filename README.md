@@ -94,6 +94,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 86: Remove Duplicate Words from a Sentence → day86_remove_duplicate_words.py
 - ✅ Day 87: Count Palindromic Substrings → day87_count_palindromic_substrings.py
 - ✅ Day 88: Armstrong Numbers in a Range → day88_armstrong_numbers_in_range.py
+- ✅ Day 89: Decimal to Binary Converter → day89_decimal_to_binary.py
 
 
 
