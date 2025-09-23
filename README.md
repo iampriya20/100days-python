@@ -96,6 +96,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 88: Armstrong Numbers in a Range → day88_armstrong_numbers_in_range.py
 - ✅ Day 89: Decimal to Binary Converter → day89_decimal_to_binary.py
 - ✅ Day 90: Binary to Decimal Converter → day90_binary_to_decimal.py
+- ✅ Day 91: Prime Factorization → day91_prime_factorization.py
 
 
 
