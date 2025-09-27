@@ -99,6 +99,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 91: Prime Factorization → day91_prime_factorization.py
 - ✅ Day 92: Email Validator (Regex) → day92_email_validator.py
 - ✅ Day 93: Decimal to Octal Converter → day93_decimal_to_octal.py
+- ✅ Day 94: Hexadecimal to Decimal Converter → day94_hex_to_decimal.py
 
 
 
