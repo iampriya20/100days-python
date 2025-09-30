@@ -102,6 +102,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 94: Hexadecimal to Decimal Converter → day94_hex_to_decimal.py
 - ✅ Day 95: Stack Implementation (Push, Pop, Peek) → day95_stack_implementation.py
 - ✅ Day 96: Queue Implementation (Enqueue, Dequeue, Peek) → day96_queue_implementation.py
+- ✅ Day 97: Circular Queue Implementation → day97_circular_queue.py
 
 
 
