@@ -104,6 +104,7 @@ Welcome to my clean and consistent restart of the **100 Days of Python** challen
 - ✅ Day 96: Queue Implementation (Enqueue, Dequeue, Peek) → day96_queue_implementation.py
 - ✅ Day 97: Circular Queue Implementation → day97_circular_queue.py
 - ✅ Day 98: Deque (Double-Ended Queue) Implementation → day98_deque_implementation.py
+- ✅ Day 99: Browser History Simulator (Two Stacks) → day99_browser_history_simulator.py
 
 
 
